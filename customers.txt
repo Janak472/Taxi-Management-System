@@ -1,0 +1,24 @@
+1, John Doe, B, 0.2
+2, Jane Smith, E, 0.1, 100
+13, vivek, E, 0.3, 34.0
+12, ggg, E, 0.3, 23.0
+35, hhh, B, 0.2
+17, Janak, B, -0.4
+23, Arnav, B, 0.4
+23, umesh, B, 0.3
+15, Umesh, B, 0.15
+18, Kailash, E, 0.3, 100.0
+18, kailash, E, 0.3, 100.0
+3, Nikhila, B, 0.5
+12, janak, B, 0.4
+45, Nishu, B, 0.12
+23, rachit, B, 0.1
+34, jayesh, E, 0.15, 100.0
+23, nikesh, E, 0.15, 100.0
+23, Jane, B, 0.1
+89, hardik, B, 0.1
+23, Pushpendra, B, 0.18
+34, Pushpa, B, 0.1
+24, Ishwer, B, 0.25
+10, Rakshit, B, 0.1
+78, mehak, B, 0.1

@@ -1,0 +1,4 @@
+Sl, Internet, 1
+S2, Entertainment, 3
+S3, Snack, 2
+S4, Drink, 1
